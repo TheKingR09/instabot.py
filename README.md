@@ -1,8 +1,9 @@
-# InstaBot
+# Instagram Bot
+# Medan, sumatra utara
 
 ---
 
-### On 03-Apr-2018, I wiped out the existing issues/PRs associated with this repo, they've built up due to some neglect. Now, there's a clean slate. New issues must follow the format provided and PRs will be reviewed and potentially accepted. Contributors are encouraged to review existing issues and submit changes.
+### On 25-Des-2018, I wiped out the existing issues/PRs associated with this repo, they've built up due to some neglect. Now, there's a clean slate. New issues must follow the format provided and PRs will be reviewed and potentially accepted. Contributors are encouraged to review existing issues and submit changes.
 
 ### Please do not clone this repo and publish it as your own. Fork the repo if you wish to publish any changes.
 
@@ -84,12 +85,11 @@ bot.get_media_id_by_tag('python')
 bot.like_all_exist_media(4)
 ```
 
-## Video Tutorials
-The following video tutorials demo setting up and running the bot:
+## Check Tutorial for make
 * [Windows](https://www.youtube.com/watch?v=V8P0UCrACA0)
 * [Mac/Linux](https://www.youtube.com/watch?v=ASO-cZO6uqo)
 
-## Community
+## My Repost
 
-- [Telegram Group](https://t.me/joinchat/DYKH-0G_8hsDDoN_iE8ZlA)
-- [Facebook Group](https://www.facebook.com/groups/instabot/)
+- [INSTAGRAM](instagram.com/geralhtgl09)
+- [LINE](line.me/ti/p/~tkr.69)
